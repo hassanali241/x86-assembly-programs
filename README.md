@@ -11,7 +11,7 @@ A collection of Assembly Language programs written for the Intel 8086 architectu
 
 ## 💻 How to Run
 
-### Option 1: DOSBox + TASM
+### DOSBox + TASM
 ```bash
 tasm filename.asm
 tlink filename.obj
